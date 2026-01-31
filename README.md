@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isInputCastingPolicy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-input-casting-policy@esm/index.mjs';
+import isInputCastingPolicy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-input-casting-policy@v0.1.0-esm/index.mjs';
 ```
 
 #### isInputCastingPolicy( value )
@@ -93,7 +93,7 @@ bool = isInputCastingPolicy( 'foo' );
 <body>
 <script type="module">
 
-import isInputCastingPolicy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-input-casting-policy@esm/index.mjs';
+import isInputCastingPolicy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-input-casting-policy@v0.1.0-esm/index.mjs';
 
 var bool = isInputCastingPolicy( 'none' );
 // returns true
